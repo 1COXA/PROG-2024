@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\415709\\Documents\\PROG-2024\\EXERCICIOS\\240219_01\\240219_01.csproj": {}
+    "C:\\Users\\415709\\Documents\\PROG-2024\\ATIVIDADES\\Cadastro\\ATIVIDADES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\415709\\Documents\\PROG-2024\\EXERCICIOS\\240219_01\\240219_01.csproj": {
+    "C:\\Users\\415709\\Documents\\PROG-2024\\ATIVIDADES\\Cadastro\\ATIVIDADES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\415709\\Documents\\PROG-2024\\EXERCICIOS\\240219_01\\240219_01.csproj",
-        "projectName": "240219_01",
-        "projectPath": "C:\\Users\\415709\\Documents\\PROG-2024\\EXERCICIOS\\240219_01\\240219_01.csproj",
+        "projectUniqueName": "C:\\Users\\415709\\Documents\\PROG-2024\\ATIVIDADES\\Cadastro\\ATIVIDADES.csproj",
+        "projectName": "ATIVIDADES",
+        "projectPath": "C:\\Users\\415709\\Documents\\PROG-2024\\ATIVIDADES\\Cadastro\\ATIVIDADES.csproj",
         "packagesPath": "C:\\Users\\415709\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\415709\\Documents\\PROG-2024\\EXERCICIOS\\240219_01\\obj\\",
+        "outputPath": "C:\\Users\\415709\\Documents\\PROG-2024\\ATIVIDADES\\Cadastro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
