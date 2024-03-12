@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OPERADORES_ARITMETICOS/1.0.0": {
+        "runtime": {
+          "OPERADORES_ARITMETICOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPERADORES_ARITMETICOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
