@@ -2,16 +2,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using _240401_01.MODELS;
 
-namespace _240401_1.MODELS
+namespace _240401_01.Models
 {
     public class Order
     {
         public Customer Customer { get; set; }
-        public DateTime OrdemDate { get; set; }
+        public DateTime OrderDate { get; set; }
         public string ShippingAddress { get; set; }
-        public List<OrderItem> OrderItem { get; set; }
+        public List<OrderItem> OrderItems { get; set; }
 
         public bool Validate()
         {
@@ -20,7 +19,12 @@ namespace _240401_1.MODELS
 
         public Order Retrieve()
         {
-
+            return new Order();
         }
+
+        public void Save(Order order)
+        {
+
+        }          
     }
 }
