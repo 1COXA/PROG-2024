@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMOBILIARIA CLASS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e03d8092c317ea3fcedd0eb2779a0f2e70e8e3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9324367a7ed850adee7112f503a0390a16204141")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMOBILIARIA CLASS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMOBILIARIA CLASS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
