@@ -10,9 +10,9 @@ Localidade localidade2 = new(2, "Rural");
 Negocio negocio1 = new(1, "Locação");
 Negocio negocio2 = new(2, "Venda");
 
-Imagem imagem1 = new(1, 1, "C:\\Users\\Samuel\\Pictures\\FotoCasa.jpg");
-Imagem imagem2 = new(2, 1, "C:\\Users\\Samuel\\Pictures\\FotoCasa2.jpg");
-Imagem imagem3 = new(3, 2, "C:\\Users\\Samuel\\Pictures\\FotoCasaSitio.jpg");
+Imagem imagem1 = new(1, 1, "C:\\Users\\Alexandre\\Pictures\\FotoCasa.jpg");
+Imagem imagem2 = new(2, 1, "C:\\Users\\Alexandre\\Pictures\\FotoCasa2.jpg");
+Imagem imagem3 = new(3, 2, "C:\\Users\\Alexandre\\Pictures\\FotoCasaSitio.jpg");
 
 Imovel casa_centro = new()
 {
