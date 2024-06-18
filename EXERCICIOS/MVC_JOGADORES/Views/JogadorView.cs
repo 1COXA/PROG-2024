@@ -20,7 +20,7 @@ namespace MVC_JOGADORES.Views
         public void Init()
         {
             Console.WriteLine("------------------------");
-            Console.WriteLine("Top 10 melhores jogadores do mundo em 2024!");
+            Console.WriteLine("Registro dos melhores jogadores de 2024!");
             Console.WriteLine("------------------------");
             Console.WriteLine("");
             Console.WriteLine("1 - Inserir Jogadores");
@@ -78,22 +78,13 @@ namespace MVC_JOGADORES.Views
             Console.WriteLine("Informe o nome do atleta:");
             jogador.Nome = Console.ReadLine();
 
-            Console.WriteLine("Informe a idade do atleta:");
-            jogador.Idade = Console.ReadLine();
+            Console.WriteLine("Informe a nacionalidade do atleta:");
+            jogador.Nacionalidade = Console.ReadLine();
 
-            Console.WriteLine("Informe a matrícula do atleta:");
-            jogador.Matrícula = Console.ReadLine();
+            Console.WriteLine("Informe o time do atleta:");
+            jogador.Time = Console.ReadLine();
 
-             Console.WriteLine("Informe o CPF do atleta:");
-            jogador.Cpf = Console.ReadLine();
-
-            Console.WriteLine("Informe o curso do atleta:");
-            jogador.Curso = Console.ReadLine();
-
-             Console.WriteLine("Informe a modalidade do atleta:");
-            jogador.Modalidade = Console.ReadLine();
-
-
+            
             bool retorno = jogadorControllers.Insert(jogador);
             if (retorno)
                 Console.WriteLine("Jogador registrado com sucesso!");

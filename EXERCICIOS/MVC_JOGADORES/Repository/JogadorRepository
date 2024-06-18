@@ -1,0 +1,47 @@
+using System.Collections.Generic;
+using System.Linq;
+using MVC_JOGADORES.Controller.Models;
+
+namespace MVC_JOGADORES.Data
+{
+    public class AtletaRepository : IAtletaRepository
+    {
+        public List<Atleta> GetAll()
+        {
+            return DataSet.Atleta.ToList();
+        }
+
+        public Atleta GetById(int id)
+        {
+            return DataSet.Atleta.FirstOrDefault(a => a.Id == id);
+        }
+
+        public void Insert(Atleta atleta)
+        {
+            DataSet.Atleta.Add(atleta);
+        }
+
+        public void Update(Atleta atleta)
+        {
+            var existingAtleta = DataSet.Atleta.FirstOrDefault(a => a.Id == atleta.Id);
+            if (existingAtleta != null)
+            {
+                existingAtleta.Nome = atleta.Nome;
+                existingAtleta.Idade = atleta.Idade;
+                existingAtleta.Matricula = atleta.Matricula;
+                existingAtleta.Cpf = atleta.Cpf;
+                existingAtleta.Curso = atleta.Curso;
+                existingAtleta.Modalidade = atleta.Modalidade;
+            }
+        }
+
+        public void Delete(int id)
+        {
+            var atleta = DataSet.Atleta.FirstOrDefault(a => a.Id == id);
+            if (atleta != null)
+            {
+                DataSet.Atleta.Remove(atleta);
+            }
+        }
+    }
+}
