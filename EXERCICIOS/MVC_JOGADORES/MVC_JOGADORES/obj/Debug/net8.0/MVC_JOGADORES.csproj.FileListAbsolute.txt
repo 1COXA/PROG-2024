@@ -1,0 +1,45 @@
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.AssemblyInfoInputs.cache
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.AssemblyInfo.cs
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.csproj.CoreCompileInputs.cache
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.sourcelink.json
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.exe
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.deps.json
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.runtimeconfig.json
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.dll
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.pdb
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.dll
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\refint\MVC_JOGADORES.dll
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.pdb
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.genruntimeconfig.cache
+C:\Users\415709\Desktop\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\ref\MVC_JOGADORES.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.sourcelink.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\refint\MVC_JOGADORES.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\progamacao-1\coxa\PROG-2024\EXERCICIOS\MVC_JOGADORES\obj\Debug\net8.0\ref\MVC_JOGADORES.dll
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.exe
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.deps.json
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.runtimeconfig.json
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.dll
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\bin\Debug\net8.0\MVC_JOGADORES.pdb
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.AssemblyInfo.cs
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.sourcelink.json
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.dll
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\refint\MVC_JOGADORES.dll
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.pdb
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\MVC_JOGADORES.genruntimeconfig.cache
+C:\Users\julia\Downloads\PROG-2024\EXERCICIOS\MVC_JOGADORES\MVC_JOGADORES\obj\Debug\net8.0\ref\MVC_JOGADORES.dll
